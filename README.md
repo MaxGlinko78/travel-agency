@@ -1,4 +1,4 @@
-# travel-agency - Учебный проект 
+# Travel-Agency - Учебный проект 
 В проекте используется:
 - HTML
 - CSS
